@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+
+img {
+    max-width:100%;
+    z-index:-1;
+    margin:5pt;
+}
+
+p {
+    color:white;
+    margin-left: 70pt;
+    margin-top:5pt;
+}
+
+audio {
+    margin-left:400px;
+    margin-top:200px;
+    position:absolute;
+    z-index:2;
+}
