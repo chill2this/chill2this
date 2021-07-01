@@ -6,18 +6,19 @@ img {
     max-width:100%;
     z-index:-1;
     margin:5pt;
+    
 }
 
 .p1 {
     color:white;
-    margin-left: 70pt;
+    margin-left: 40pt;
     margin-top:5pt;
     font-size:20pt;
 }
 
 p {
     color:white;
-    margin-left: 70pt;
+    margin-left: 40pt;
     margin-top:5pt;
     font-size:16pt;
 }
@@ -25,7 +26,7 @@ p {
 
 
 audio {
-    margin-left:400px;
+    margin-left:40px;
     margin-top:200px;
     position:absolute;
     z-index:2;
