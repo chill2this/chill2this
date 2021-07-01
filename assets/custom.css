@@ -8,6 +8,13 @@ img {
     margin:5pt;
 }
 
+.p1 {
+    color:white;
+    margin-left: 70pt;
+    margin-top:5pt;
+    font-size:18pt;
+}
+
 p {
     color:white;
     margin-left: 70pt;
@@ -15,12 +22,7 @@ p {
     font-size:16pt;
 }
 
-.p1 {
-    color:white;
-    margin-left: 70pt;
-    margin-top:5pt;
-    font-size:18pt;
-}
+
 
 audio {
     margin-left:400px;
